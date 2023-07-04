@@ -1,24 +1,9 @@
-# vagas-front
+Linguagens Utilizadas:
+- HTML
+- JavaScript
+- Vue.JS
 
-## Project setup
-```
-npm install
-```
+![image](https://github.com/marianacaldas/vagas-front/assets/23060253/01638385-d447-4c1e-8c26-515d962a4405)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![image](https://github.com/marianacaldas/vagas-front/assets/23060253/67e9ccf0-327d-4bf6-8fd5-b9fa645f49cb)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
